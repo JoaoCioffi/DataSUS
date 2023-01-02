@@ -37,3 +37,5 @@ download(group: str, state: str, year: int, month: int, cache: bool = True) -> p
 
 >>> df = CNES.download('LT','GO',2021,12) # Base de dados dos leitos para o estado de Goiás, em dez/21
 ```
+---
+Para acessar o relatório gerado (arquivo jupyter notebook): ```./jupyter-env/Covid19_CNES_GO_EDA.ipynb```
