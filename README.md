@@ -7,6 +7,7 @@ Sabe-se que:
 * Os dados do CNES.LT estão disponíveis publicamente no servidor FTP do DataSUS conforme exposto no endereço https://datasus.saude.gov.br/transferencia-de-arquivos/
 * O dicionário de dados está disponível em ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/doc/IT_CNES_1706.pdf
 ---
+
 Geraç
 
 * Obs: A principal biblioteca utilizada para coleta dos dados foi o PySUS, que pode ser lida sua documentação em: https://github.com/AlertaDengue/PySUS
